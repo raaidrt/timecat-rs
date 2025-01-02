@@ -54,7 +54,7 @@ inherits = "dev"
 inherits = "release"
 
 [dependencies]
-arrayvec = "0"
+arrayvec = "0.7.6"
 binread = { version = "2", features = ["const_generics"], optional = true}
 colored = { version = "2", optional = true }
 dirs = { version = "5", optional = true }
